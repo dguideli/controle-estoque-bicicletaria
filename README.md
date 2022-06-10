@@ -1,2 +1,2 @@
 # controle-estoque-bicicletaria
-Neste código, temos um controle de estoque, neste caso, como exemplo, uma bicicletaria.
+Neste algoritmo utilizo funções, além do tratamento excessões, o "try/except", que acusa um valor inválido digitado pelo usuário, sem falar nos laços de repetição.
